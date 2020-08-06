@@ -1,0 +1,16 @@
+.b1{
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: #00ff00;
+}
+.b2 {
+    font-size: 12px;
+    color: rgb(0, 255, 0);
+}
+.b3 {
+    font-style: oblique;
+    text-align: center;
+}
+.b4 {
+    font-weight: 500;
+}
