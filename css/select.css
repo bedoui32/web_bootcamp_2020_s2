@@ -1,0 +1,19 @@
+p{
+    color: tomato;
+    border:  1px solid red;
+}
+#mytitle {
+    font-family: monospace;
+}
+#mytitle2{
+    color: maroon;
+}
+.smalltitle1{
+    color: mediumorchid;
+}
+.smalltitle2 {
+    color: burlywood;
+}
+.stf{
+    font-family: sans-serif;
+}
